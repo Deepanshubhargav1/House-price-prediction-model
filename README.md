@@ -1,4 +1,6 @@
 📂 Project Structure
+
+
 ├── app.html               # Frontend HTML page
 ├── app.css                # Styling for the frontend
 ├── app.js                 # JavaScript to handle UI logic and API calls
@@ -7,6 +9,7 @@
 ├── bhp.ipynb              # Data preprocessing & model training notebook
 ├── banglore_home_price_model.pickle  # Trained model
 ├── columns.json           # Metadata about model input features
+
 🚀 Features
 Predict housing price in lakhs for Bangalore city
 
@@ -27,7 +30,7 @@ Data: Real estate data scraped and preprocessed in bhp.ipynb
 
 ⚙️ Setup Instructions
 Clone the Repository
-git clone https://github.com/yourusername/bangalore-home-price-predictor.git
+git clone ######
 cd bangalore-home-price-predictor
 
 Install Dependencies
